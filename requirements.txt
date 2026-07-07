@@ -1,2 +1,2 @@
-crewai
+crewai>=1.0.0 
 crewai-tools
